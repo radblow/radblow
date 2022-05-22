@@ -3,4 +3,8 @@ Timofey lychii
 
 please mark my work in 100 out of 100
 
+<<<<<<< HEAD
 SOMEBODY ONCE TOLD ME THE WORLD IS GONNA ROLL ME 
+=======
+UPDATED
+>>>>>>> bad-update
